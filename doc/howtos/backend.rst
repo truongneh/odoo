@@ -1,14 +1,7 @@
-:banner: banners/build_a_module.jpg
-
-.. queue:: backend/series
 
 =================
 Building a Module
 =================
-
-.. warning::
-
-    This tutorial requires :ref:`having installed Odoo <setup/install>`
 
 Start/Stop the Odoo server
 ==========================
